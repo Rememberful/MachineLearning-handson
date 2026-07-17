@@ -1,4 +1,0 @@
-Link: from where the Polynomial regression ends, we can see the concept of pipeline in polynomial regression code
-
-
-https://colab.research.google.com/drive/1jzzPuLie3g3sPCiY9IVc3UptnHSpXXS3#scrollTo=1X6NccbByYR9
